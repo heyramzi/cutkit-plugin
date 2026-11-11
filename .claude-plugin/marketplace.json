@@ -1,0 +1,17 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "cutkit",
+  "description": "The CutKit Teleprompter plugin for Claude Code: write and manage the scripts your iPhone teleprompter reads.",
+  "owner": {
+    "name": "UpSys LLC",
+    "email": "hello@getcutkit.com",
+    "url": "https://getcutkit.com"
+  },
+  "plugins": [
+    {
+      "name": "cutkit-teleprompter",
+      "source": "./",
+      "description": "The CutKit MCP server plus a skill for the common teleprompter workflows: draft a script, start from a hook template, check it, and organize the library."
+    }
+  ]
+}

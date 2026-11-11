@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cutkit": {
+      "type": "http",
+      "url": "https://getcutkit.com/mcp"
+    }
+  }
+}

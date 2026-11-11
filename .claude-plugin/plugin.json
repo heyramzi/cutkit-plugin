@@ -1,0 +1,16 @@
+{
+  "name": "cutkit-teleprompter",
+  "description": "Write, check and organize the scripts your CutKit iPhone teleprompter reads: draft from a hook template, grade a script, and put it on your phone.",
+  "version": "1.0.0",
+  "author": {
+    "name": "UpSys LLC",
+    "email": "hello@getcutkit.com",
+    "url": "https://getcutkit.com"
+  },
+  "homepage": "https://getcutkit.com",
+  "repository": "https://github.com/heyramzi/cutkit-plugin",
+  "privacyPolicyUrl": "https://getcutkit.com/privacy",
+  "icon": ".claude-plugin/icon.png",
+  "keywords": ["teleprompter", "scripts", "video", "iphone", "mcp"],
+  "license": "MIT"
+}
